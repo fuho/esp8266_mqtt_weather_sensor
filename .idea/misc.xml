@@ -3,7 +3,9 @@
   <component name="CMakeWorkspace" PROJECT_DIR="$PROJECT_DIR$" />
   <component name="CidrRootsConfiguration">
     <sourceRoots />
-    <libraryRoots />
+    <libraryRoots>
+      <file path="$PROJECT_DIR$/.pioenvs/nodemcuv2" />
+    </libraryRoots>
     <excludeRoots />
   </component>
 </project>
